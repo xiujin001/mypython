@@ -1,0 +1,2 @@
+# mypython
+none null empty
